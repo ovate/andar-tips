@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Andar's Past Blog Entries**
+### **Andar's Past Blog Entries**
 
 [Why are backups more important for RM than most other programs?](./backups.html), 7 Sep 2015
 
